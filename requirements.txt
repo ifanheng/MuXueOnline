@@ -1,6 +1,6 @@
 Django==2.2.11
 mysqlclient==1.4.6
-Pillow==7.0.0
+Pillow==8.1.1
 django-crispy-forms>=1.6.0
 django-import-export>=0.5.1
 django-reversion>=2.0.0
