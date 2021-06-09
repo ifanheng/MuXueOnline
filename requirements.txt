@@ -1,4 +1,4 @@
-Django==2.2.11
+Django==2.2.22
 mysqlclient==1.4.6
 Pillow==7.0.0
 django-crispy-forms>=1.6.0
